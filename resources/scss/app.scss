@@ -1,0 +1,10 @@
+@import "~bootstrap/scss/bootstrap";
+
+.active {
+    border-bottom: 2px solid blueviolet;
+}
+
+.active a {
+    font-weight: bold;
+    color: blueviolet;
+}
